@@ -1,3 +1,5 @@
+![banner](https://github.com/xLucaspx/barbearia-alura/assets/141420256/97f27d0c-a135-4a7f-aaad-b45922e9d33d)
+
 # Site de uma barbearia
 ## Utilizando HTML e CSS
 Este projeto foi desenvolvido durante o curso de HTML5 e CSS3. Os objetivos principais eram:
